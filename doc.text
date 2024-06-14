@@ -1,0 +1,33 @@
+{
+     "firstName":"mohit kumar",
+   "lastName":"saini",
+   "email":"sainimohit04@gmail.com",
+    "password":"12345678910",
+    "phone":78954621485,
+    "role":"Admin",
+    "gender":"Male",
+    "dob":"10/02/2003",
+    "nic":"45789"
+    
+}
+
+
+
+
+
+{
+    "firstName":"shivam kumar",
+   "lastName":"saini",
+   "email":"shivam@gmail.com",
+    "password":"12345678910",
+    "phone":78954621485,
+    "address":"samstipur",
+    "gender":"Male",
+    "dob":"10/02/2003",
+    "nic":"4578978945612",
+    "department":"radiology",
+    "appointment_date":"20/02/2024",
+    "doctor_firstName":"mohit kumar",
+    "doctor_lastName":"saini"
+    
+}
